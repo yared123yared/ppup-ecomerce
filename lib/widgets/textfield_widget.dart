@@ -90,15 +90,15 @@ class TextFieldWidget extends StatelessWidget {
                         border: InputBorder.none,
                         counterText: '',
                         isDense: true,
-                        label: Text(
-                          title,
-                          style: Styles.bold(
-                              fontSize: 14,
-                              color: (focusNode.hasFocus ||
-                                      controller.text.isNotEmpty)
-                                  ? AppTheme.textSecondaryColor
-                                  : AppTheme.textPrimaryColor),
-                        ),
+                        // label: Text(
+                        //   title,
+                        //   style: Styles.bold(
+                        //       fontSize: 14,
+                        //       color: (focusNode.hasFocus ||
+                        //               controller.text.isNotEmpty)
+                        //           ? AppTheme.textSecondaryColor
+                        //           : AppTheme.textPrimaryColor),
+                        // ),
                         errorStyle: Styles.bold(
                             fontSize: 10, color: AppTheme.errorColor)),
                   ),

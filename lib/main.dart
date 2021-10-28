@@ -51,9 +51,9 @@ class GigPointApp extends StatelessWidget {
           theme: ThemeData(
             primaryColor: AppTheme.primaryColor,
             accentColor: AppTheme.primaryColor,
-            progressIndicatorTheme: const ProgressIndicatorThemeData(
-              color: AppTheme.primaryColor,
-            ),
+            // progressIndicatorTheme: const ProgressIndicatorThemeData(
+            //   color: AppTheme.primaryColor,
+            // ),
             scaffoldBackgroundColor: AppTheme.scaffoldBackground,
             fontFamily: Constants.fontFamily,
             dividerColor: AppTheme.borderColor,

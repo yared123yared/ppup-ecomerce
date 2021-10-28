@@ -49,7 +49,7 @@ class AppUtils {
         style: Styles.semiBold(fontSize: 14, color: Colors.white),
       ),
       duration: const Duration(seconds: 2),
-      dismissDirection: DismissDirection.horizontal,
+      // dismissDirection: DismissDirection.horizontal,
       backgroundColor: AppTheme.errorColor,
     );
 
