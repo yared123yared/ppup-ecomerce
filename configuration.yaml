@@ -1,0 +1,9 @@
+api_base_url: https://kejrkug5onanlkf5b3orpqnbmq.appsync-api.us-east-2.amazonaws.com/graphql
+api_key: da2-4lwxkqfxkbhpjgixqs5of6eqoi
+
+banking_url: https://pointpickup.rellevate.com/
+insurance_url: https://app.decisely.com/
+forgot_password_url: https://newqa.pointpickup.com/gateway/forgot_password
+
+support_email: support@ppup.com
+support_number: '+617366484'
