@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "384670772106",
+    "project_id": "gigpoint-7aa74",
+    "storage_bucket": "gigpoint-7aa74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384670772106:android:c9460af1b74f580314f673",
+        "android_client_info": {
+          "package_name": "com.pointpickup.gigpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384670772106-jnv06g2e14oc2omjanc53t20lj86vpdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuAmTfeoef7Ep3IfVOcw1gkMlKjt5mx3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384670772106-jnv06g2e14oc2omjanc53t20lj86vpdq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "384670772106-gsm2au9e472s7m38f8dgpb3t7qtiltg3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pointpickup.gigpoint"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
